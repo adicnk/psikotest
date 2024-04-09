@@ -32,7 +32,7 @@ class Views extends BaseController
     public function index()
     {
         $data = [
-            'title' => 'Alquran Online'
+            'title' => 'Psikotes Online'
         ];
         return view('website/front', $data);
     }

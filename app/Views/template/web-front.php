@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Alquran per Kata</title>
+    <title>Psikotes Online</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -55,7 +55,7 @@
 
         <nav class="navbar navbar-expand-lg navbar-dark py-lg-0 px-lg-5 wow fadeIn" data-wow-delay="0.1s">
             <a href="index.html" class="navbar-brand ms-4 ms-lg-0">
-                <h1 class="fw-bold text-primary m-0">Alquran<span class="text-white">perKata</span></h1>
+                <h1 class="fw-bold text-primary m-0">Psikotes<span class="text-white">Online</span></h1>
             </a>
             <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                 <span class="navbar-toggler-icon"></span>
@@ -65,7 +65,6 @@
         </nav>
     </div>
     <!-- Navbar End -->
-
 
     <!-- Carousel Start -->
     <div class="container-fluid p-0 mb-5">
@@ -77,8 +76,9 @@
                         <div class="container">
                             <div class="row justify-content-center">
                                 <div class="col-lg-7 pt-5">
-                                    <h1 class="display-4 text-white mb-3 animated slideInDown">Terjemahan per Kata</h1>
-                                    <p class="fs-5 text-white-50 mb-5 animated slideInDown">Memberikan arti kata bahasa Arab dalam bahasa Indonesia</p>
+                                    <h1 class="display-4 text-white mb-3 animated slideInDown">Latihan Psikotes</h1>
+                                    <p class="fs-5 text-white-50 mb-2 animated slideInDown">Sebelum melakukan psikotes untuk berbagai keperluan</p>
+                                    <p class="fs-5 text-white-50 mb-2 animated slideInDown">sebaiknya kenali jenis-jenis pertaannya.</p>
                                 </div>
                             </div>
                         </div>
